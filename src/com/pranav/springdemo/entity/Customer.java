@@ -10,7 +10,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name="customer")
 public class Customer {
-	//id 
+	//id is important
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	@Column(name="id")
