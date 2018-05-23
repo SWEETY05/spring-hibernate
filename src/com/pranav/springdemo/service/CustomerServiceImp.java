@@ -8,7 +8,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import com.pranav.springdemo.dao.CustomerDao;
 import com.pranav.springdemo.entity.Customer;
-
+//service anotation
 @Service
 public class CustomerServiceImp implements CustomerService {
 	
