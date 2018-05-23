@@ -7,7 +7,5 @@ public class pro {
 		return "pranav";
 	}
 	
-	public String lime(){
-		return "lime";
-	}
+	
 }
