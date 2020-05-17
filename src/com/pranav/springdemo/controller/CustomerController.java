@@ -58,4 +58,6 @@ public class CustomerController {
 			customerService.deleteCustomer(theId);
 		return "redirect:/customer/list";
 	}
+	
+	//pranav
 }
