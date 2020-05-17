@@ -14,5 +14,4 @@ public interface CustomerDao {
 
 		public void deleteCustomer(int theId);
 }
-//dao 1
-//daopranav
+
