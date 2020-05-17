@@ -59,5 +59,5 @@ public class CustomerController {
 		return "redirect:/customer/list";
 	}
 	
-	//pranav dusane
+	
 }
