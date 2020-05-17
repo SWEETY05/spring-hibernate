@@ -51,5 +51,5 @@ public class CustomerDaoImp implements CustomerDao {
 		
 		theQuery.executeUpdate();
 	}
-
+//
 }
