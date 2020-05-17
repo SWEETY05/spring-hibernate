@@ -59,6 +59,10 @@ public class CustomerController {
 		return "redirect:/customer/list";
 	}
 	
+<<<<<<< HEAD
 	//sweeti 
+=======
+	//sweeti sawlikar .
+>>>>>>> branch 'master' of https://github.com/SWEETY05/spring-hibernate.git
 	
 }
