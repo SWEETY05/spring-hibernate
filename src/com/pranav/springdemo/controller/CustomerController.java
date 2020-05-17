@@ -59,5 +59,6 @@ public class CustomerController {
 		return "redirect:/customer/list";
 	}
 	
+	//sweeti
 	
 }
